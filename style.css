@@ -109,3 +109,19 @@ span.check-mark{
     margin-top: 50px;
     margin-left: 180px;
 }
+/* awlays positive section */
+.positive{
+    background-image:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url(images/watch.png);
+    border-radius: 8px;
+    background-repeat: no-repeat;
+   padding-top: 45px;
+   padding-left: 50px;
+   margin: 100px;
+   background-position-x:center;
+   height: 200px;
+}
+.mind-set{
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;  
+}
