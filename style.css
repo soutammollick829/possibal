@@ -43,4 +43,50 @@ padding-top: 140px;
 /* close head section 
 =====================================================*/
 
+/* My-failures-section here..... */
+.My-failures-section{
+display: flex;
+text-align: center;
+margin-top: 100px;
+gap: 85px;
+
+}
+.person-img{
+    width: 400px;
+    height: 550px;
+    margin-left: 100px;
+
+}
+.My-failure-heading{
+    font-weight: 600;
+    font-size: 35px;
+    color: #151414;
+    padding-top: 150px;
+    text-align: left;
+
+}
+.paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 25px;
+    margin-right: 100px;
+    text-align: left;
+}
+.paragraph-line{
+    font-weight: 400;
+    font-size: 14px;
+    color: #444343;
+    margin-top: 10px;
+    margin-right: 100px;
+    text-align: left;  
+}
+.paragraph-line:hover{
+    color: #16D887;
+}
+span.check-mark{
+  color: #16D887;
+}
+/* My-failures-section close 
+=================================================*/
 
