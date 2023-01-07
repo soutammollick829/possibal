@@ -107,7 +107,7 @@ span.check-mark{
     gap: 65px;
     text-align: center;
     margin-top: 50px;
-    margin-left: 180px;
+    margin-left: 185px;
 }
 /* awlays positive section */
 .positive{
@@ -115,7 +115,7 @@ span.check-mark{
     border-radius: 8px;
     background-repeat: no-repeat;
    padding-top: 45px;
-   padding-left: 50px;
+   padding-left: 100px;
    margin: 100px;
    background-position-x:center;
    height: 200px;
@@ -124,4 +124,61 @@ span.check-mark{
     font-weight: 700;
     font-size: 30px;
     color: #FFFFFF;  
+}
+/* awlays positive section close 
+==============================================*/
+
+/* footer section */
+.footer{
+    display: flex;
+    background-color:#1883da;
+    gap: 45px;
+    border-radius: 20px; 
+    width:1025px; 
+}
+.footer-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #F8F8F8;
+    margin-top: 50px;
+    margin-left: 40px;
+    
+}
+.footer-description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.mesage-box{
+    height: 35px;
+    width: 120px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0;
+    margin-left: 40px;
+    
+}
+textarea{
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.class-icon{
+    text-align: center;
+    text-decoration: none; 
+}
+.message-box-btn{
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 70px;
+    font-weight: 700;
+    color: #005FAC;
+    border-radius: 5px;
+}
+.message-box-btn:hover{
+    color: #ee4c4c;
 }
